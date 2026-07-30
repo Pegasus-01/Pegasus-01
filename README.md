@@ -3,6 +3,9 @@ I'm Rudranil, a Security Engineer working across SOC operations, Zero Trust iden
 - Currently securing a PCI-DSS cardholder environment for 1,000+ users — detection engineering, DLP, and the identity controls behind them
 - Deep interest in AI security: prompt inspection, adversarial ML, and the attack surface of GenAI tools
 
+## 📈 Contribution Graph
+![Rudranil's GitHub contribution graph](https://ghchart.rshah.org/Pegasus-01)
+
 ## 📚 Projects
 | Repository | Link | Description |
 | --- | --- | --- |
