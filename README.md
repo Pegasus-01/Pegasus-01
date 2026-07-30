@@ -4,7 +4,11 @@ I'm Rudranil, a Security Engineer working across SOC operations, Zero Trust iden
 - Deep interest in AI security: prompt inspection, adversarial ML, and the attack surface of GenAI tools
 
 ## 📈 Contribution Graph
-![Rudranil's GitHub contribution graph](https://ghchart.rshah.org/Pegasus-01)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Pegasus-01&theme=github-dark&bg_color=00000000&hide_border=true&hide_title=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Pegasus-01&theme=minimal&bg_color=00000000&hide_border=true&hide_title=true" />
+  <img alt="Rudranil's GitHub contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Pegasus-01&theme=github-dark&bg_color=00000000&hide_border=true&hide_title=true" />
+</picture>
 
 ## 📚 Projects
 | Repository | Link | Description |
